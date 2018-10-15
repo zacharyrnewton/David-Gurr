@@ -1,0 +1,63 @@
+nav
+  position: absolute
+  top: 0
+  left: 0
+  right: 0
+  height: 82px
+  display: flex
+  flex-direction: row
+  justify-content: space-between
+  align-items: flex-end
+  padding: 0 100px 8px 100px
+  background: $white
+  z-index: 100
+  &::before
+    content: ""
+    position: absolute
+    bottom: 0
+    left: 100px
+    right: 100px
+    top: auto
+    height: 1px
+    background-color: $black
+    z-index: 101
+  a.navTitleWrapper
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+    align-items: flex-end
+    white-space: nowrap
+    text-decoration: none
+    color: $black
+    .navTitle, .navTagline
+      margin: 0
+    .navTitle
+      margin-right: 1rem
+  ul
+    padding: 0
+    margin: 0
+    list-style: none
+    display: flex
+    flex-direction: row
+    li
+      margin: 0 0 0 1rem
+      a
+        color: $black
+        text-decoration: none
+        &:hover
+          color: $blue
+          text-decoration: underline
+      &:first-of-type
+        margin: 0
+
+
+@media screen and(max-width: 1000px)
+  nav
+    padding: 0 1rem 8px 1rem
+    &::before
+      left: 1rem
+      right: 1rem
+@media screen and(max-width: 875px)
+  a.navTitleWrapper
+    .navTagline
+      display: none

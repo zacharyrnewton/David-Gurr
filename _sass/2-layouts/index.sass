@@ -29,7 +29,7 @@
   grid-row-start: 3
   text-decoration: none
   padding: 0
-  margin: 0
+  margin: 0 0 2rem 0
   list-style: none
   li
     margin-top: 16px
@@ -51,16 +51,6 @@ footer
       color: $blue
       text-decoration: underline
 
-
-.circle
-  height: 100%
-  width: 36px
-  border: 1px solid $black
-  border-radius: 100%
-  grid-column-start: 4
-  grid-row-start: 1
-  grid-row-end: 5
-
 @media screen and(max-width: 875px)
   .homeWrapper
     padding: 40px 50px
@@ -75,12 +65,25 @@ footer
     display: grid
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr
     grid-template-rows: 1fr 1fr 1fr 1fr
+    .indexNavigation, footer
+      grid-column-start: 4
+    &::before
+      grid-column-end: 6
+
+
+@media screen and(max-width: 450px)
+  .homeWrapper
+    position: relative
+    width: 100vw
+    height: 100vh
+    padding: 30px 16px
+    box-sizing: border-box
+    display: grid
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr
+    grid-template-rows: 1fr 1fr 1fr 1fr
     .indexTagline
       display: none
-    .circle
-      grid-column-start: 2
-      transform: scale(.4)
     .indexTitle, .indexNavigation, footer
-      grid-column-start: 4
+      grid-column-start: 1
     &::before
       grid-column-end: 6
