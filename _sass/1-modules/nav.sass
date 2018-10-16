@@ -11,6 +11,9 @@ nav
   padding: 0 100px 8px 100px
   background: $white
   z-index: 100
+  box-sizing: border-box
+  .navToggle
+    display: none
   &::before
     content: ""
     position: absolute
@@ -61,3 +64,48 @@ nav
   a.navTitleWrapper
     .navTagline
       display: none
+@media screen and(max-width: 550px)
+  nav
+    padding: 2rem 1rem 8px 1rem
+    height: 60px
+    overflow: hidden
+    align-items: flex-start
+    .navToggle
+      position: relative
+      display: block
+      height: 24px
+      width: 24px
+      cursor: pointer
+      svg
+        display: block
+        position: absolute
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+      svg.navClose
+        display: none
+    ul
+      position: absolute
+      top: 96px
+      left: 1rem
+      padding: 0
+      margin: 0
+      list-style: none
+      display: flex
+      flex-direction: column
+      align-items: flex-start
+      li
+        margin: 0 0 1rem 0
+        &:first-of-type
+          margin: 0 0 1rem 0
+        &:last-of-type
+          margin: 0
+  html.nav-open
+    nav
+      height: 230px
+      .navToggle
+        svg.navClose
+          display: block
+        svg.navMenu
+          display: none
