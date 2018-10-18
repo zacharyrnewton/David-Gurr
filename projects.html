@@ -2,3 +2,14 @@
 layout: default
 ---
 {% include nav.html %}
+
+<div class="projectsWrapper">
+  {% for project in site.projects %}
+    <a href="{{ project.url }}">
+      <h3>{{ project.title }}</h3>
+      <small>{{ project.location }}</small>
+      <small>{{ project.category }}</small>
+      <small>{{ project.projectDate }}</small>
+    </a>
+  {% endfor %}
+</div>
