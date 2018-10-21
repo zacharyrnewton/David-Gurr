@@ -17,7 +17,7 @@ a.{{ project.title | slugify }}:active {
 </style>
 <div class="projectsWrapper">
   {% for project in site.projects %}
-    <a href="{{ project.url }}" class="project {{ project.title | slugify }}{% if project.lightText == true %} lightText{% endif %}">
+    <a href="{{ site.baseurl }}{{ project.url }}" class="project {{ project.title | slugify }}{% if project.lightText == true %} lightText{% endif %}">
       <h3>{{ project.title }}</h3>
       <small>{{ project.location }}</small>
       <small>{{ project.category }}</small>
