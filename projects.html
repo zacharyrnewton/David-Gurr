@@ -2,10 +2,22 @@
 layout: default
 ---
 {% include nav.html %}
-
+<style type="text/css">
+{% for project in site.projects %}
+a.{{ project.title | slugify }}:visited {
+  background-color: {{ project.projectColor }};
+}
+a.{{ project.title | slugify }}:hover h3, a.{{ project.title | slugify }}:hover small {
+  opacity: .5;
+}
+a.{{ project.title | slugify }}:active {
+  background-color: {{ project.projectColor }};
+}
+{% endfor %}
+</style>
 <div class="projectsWrapper">
   {% for project in site.projects %}
-    <a href="{{ project.url }}">
+    <a href="{{ project.url }}" class="project {{ project.title | slugify }}{% if project.lightText == true %} lightText{% endif %}">
       <h3>{{ project.title }}</h3>
       <small>{{ project.location }}</small>
       <small>{{ project.category }}</small>
