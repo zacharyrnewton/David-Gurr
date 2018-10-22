@@ -1,0 +1,22 @@
+.paginator
+  width: 100%
+  height: 24px
+  display: flex
+  flex-direction: row
+  justify-content: space-between
+  align-items: center
+  a.paginatorBack, a.paginatorNext
+    display: flex
+    flex-direction: row
+    align-items: center
+    font-size: $fontMedium
+    font-weight: bold
+    text-decoration: none
+    color: $black
+    &:hover
+      opacity: 0.75
+    .spacer
+      padding: .25rem
+    svg
+      height: 24px
+      width: 24px

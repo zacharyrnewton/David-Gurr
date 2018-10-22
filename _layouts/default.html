@@ -4,6 +4,9 @@
     {% include head.html %}
   </head>
   <body>
+    {% if page.url != '/' %}
+    {% include nav.html %}
+    {% endif %}
     {{ content }}
     {% include js.html %}
   </body>
