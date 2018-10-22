@@ -40,6 +40,22 @@
         text-decoration: none
         &:hover
           opacity: 0.75
+    .projectImages
+      display: flex
+      flex-direction: column
+      align-items: flex-start
+      justify-content: center
+      .imageGrid
+        display: grid
+        grid-template-columns: 1fr 1fr
+        grid-gap: 0
+        align-items: stretch
+
+        &:last-child
+          width: 100%
+        img
+          width: 100%
+          object-fit: cover
 @media screen and(max-width: 1000px)
   .projectContentWrapper
     padding: 98px 1rem 1rem 1rem

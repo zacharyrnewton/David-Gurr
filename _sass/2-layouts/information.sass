@@ -1,0 +1,62 @@
+.informationContentContainer
+  padding: 98px 100px 100px 100px
+  box-sizing: border-box
+  width: 100%
+  height: 100vh
+  display: grid
+  grid-template-columns: 1fr 1fr
+  grid-template-rows: 1fr
+  grid-gap: 2rem
+  align-items: center
+  grid-template: "main images"
+  .mainContent
+    grid-area: main
+    h1
+      font-size: $fontLarge
+      font-weight: bold
+      color: $black
+      margin: 0 0 .5rem 0
+    small
+      font-size: $fontSmall
+      font-weight: normal
+      color: $black
+      margin: 0 0 .5rem 0
+    p
+      margin: .5rem 0
+      font-size: $fontMedium
+      font-weight: normal
+      line-height: 1.5rem
+    ul
+      list-style: none
+      padding: 0
+      li
+        font-size: $fontSmall
+        line-height: 1.25rem
+    a
+      display: block
+      margin: 1.5rem 0
+      font-size: $fontMedium
+      font-weight: bold
+      color: $blue
+      text-decoration: none
+      &:hover
+        opacity: 0.75
+  .imageContent
+    height: 50vw
+    max-height: 600px
+    min-height: 300px
+    display: flex
+    flex-direction: row
+    justify-content: center
+    align-items: center
+    overflow: hidden
+    flex-wrap: wrap
+    grid-area: images
+    img
+      object-fit: cover
+@media screen and(max-width: 1000px)
+  .informationContentContainer
+    padding: 98px 1rem 1rem 1rem
+@media screen and(max-width: 700px)
+  .informationContentContainer
+    grid-template: "images" "main"
