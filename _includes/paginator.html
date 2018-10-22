@@ -1,6 +1,6 @@
 <div class="paginator">
 {% if page.previous.url %}
-  <a href="{{ site.baseurl }}{{ page.previous.url }}" class="paginatorBack">
+  <a href="{{ site.baseurl }}/{{ page.previous.url }}" class="paginatorBack">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
       <defs>
         <style>
@@ -20,7 +20,7 @@
 {% endif %}
   <span></span>
 {% if page.next.url %}
-  <a href="{{ site.baseurl }}{{ page.next.url }}" class="paginatorNext">
+  <a href="{{ site.baseurl }}/{{ page.next.url }}" class="paginatorNext">
     Next
     <div class="spacer"></div>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
