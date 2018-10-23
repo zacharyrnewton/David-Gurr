@@ -52,12 +52,11 @@
         grid-template-columns: 1fr 1fr
         grid-gap: 0
         align-items: stretch
-
-        &:last-child
-          width: 100%
         img
           width: 100%
           object-fit: cover
+        img:nth-child(odd):last-of-type
+          grid-column: span 2
 @media screen and(max-width: 1000px)
   .projectContentWrapper
     padding: 98px 1rem 50px 1rem

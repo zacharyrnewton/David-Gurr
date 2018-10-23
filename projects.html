@@ -8,8 +8,12 @@ a.{{ project.title | slugify }}:visited {
   background-color: {{ project.projectColor }};
   color: white;
 }
+a.{{ project.title | slugify }}:hover {
+  background-color: {{ project.projectColor }};
+  color: white;
+}
 a.{{ project.title | slugify }}:hover h3, a.{{ project.title | slugify }}:hover small {
-  opacity: .5;
+  opacity: .75;
 }
 a.{{ project.title | slugify }}:active {
   background-color: {{ project.projectColor }};
@@ -19,8 +23,11 @@ a.{{ project.title | slugify }}:active {
 a.{{ project.title | slugify }}:visited {
   background-color: {{ project.projectColor }};
 }
+a.{{ project.title | slugify }}:hover {
+  background-color: {{ project.projectColor }};
+}
 a.{{ project.title | slugify }}:hover h3, a.{{ project.title | slugify }}:hover small {
-  opacity: .5;
+  opacity: .75;
 }
 a.{{ project.title | slugify }}:active {
   background-color: {{ project.projectColor }};
