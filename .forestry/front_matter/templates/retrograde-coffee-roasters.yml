@@ -37,11 +37,6 @@ fields:
   config:
     required: true
   description: 'Set a rough project date. Example: 2018'
-- name: projectColor
-  label: Projectcolor
-  type: text
-  hidden: false
-  default: ''
 - name: primaryImage
   label: Primaryimage
   type: text
@@ -52,3 +47,10 @@ fields:
   type: list
   hidden: false
   default: ''
+- type: color
+  config:
+    color_format: Hex
+    required: true
+  label: Project Color
+  name: projectColor
+  description: Set the color for you project.
