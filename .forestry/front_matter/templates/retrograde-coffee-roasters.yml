@@ -30,7 +30,7 @@ fields:
   hidden: false
   default: ''
 - name: projectDate
-  label: Projectdate
+  label: Rough Date
   type: text
   hidden: false
   default: ''
