@@ -43,3 +43,5 @@ fields:
   type: list
   hidden: false
   default: ''
+pages:
+- _projects/test.html
