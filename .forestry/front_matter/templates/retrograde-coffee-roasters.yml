@@ -6,13 +6,16 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: project
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+  description: Give your project a title
+  config:
+    required: true
 - name: location
   label: Location
   type: text
