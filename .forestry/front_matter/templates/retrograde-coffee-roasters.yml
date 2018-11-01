@@ -51,13 +51,11 @@ fields:
   label: Project Color
   name: projectColor
   description: Set the color for you project.
-- name: primaryImage
-  label: Primaryimage
-  type: text
-  hidden: false
-  default: ''
-- name: images
-  label: Images
-  type: list
-  hidden: false
-  default: ''
+- type: file
+  name: primaryImage
+  label: Hero Image
+  description: This is the first image in the project.
+- type: image_gallery
+  label: Image Gallery
+  name: images
+  description: These are the project images
