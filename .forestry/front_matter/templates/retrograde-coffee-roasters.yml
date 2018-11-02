@@ -73,5 +73,6 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/no-greater-worth.md
 - _projects/behold.md
 - _projects/fulton.md
