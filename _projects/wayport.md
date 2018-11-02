@@ -7,29 +7,31 @@ projectDate: 2018
 projectColor: "#003a5c"
 lightText: true
 projectDetails:
-  - "Team: Visual Creatives, Inc."
-  - "Awards: Muse Creative Awards 2018 Corporate Identity Gold"
-  - "Art Direction: David Gurr"
-  - "Design: David Gurr"
-  - "Photography: Dave Imber"
-  - "Website: Dave Imber"
-  - "Naming Ideation: Dave Imber, Marla Saunders"
-  - "Copywriting: David Gurr, Dave Imber, Marla Saunders"
-  - "Typeface: Futura"
-  - "Printing: Nocturnal Press (business cards), Blurb (guidelines)"
-  - "Paper: Neenah (stationery), Gmund (business cards)"
-  - "-"
-  - "Project Images: Dave Imber"
+- 'Team: Visual Creatives, Inc.'
+- 'Awards: Muse Creative Awards 2018 Corporate Identity Gold'
+- 'Art Direction: David Gurr'
+- 'Design: David Gurr'
+- 'Photography: Dave Imber'
+- 'Website: Dave Imber'
+- 'Naming Ideation: Dave Imber, Marla Saunders'
+- 'Copywriting: David Gurr, Dave Imber, Marla Saunders'
+- 'Typeface: Futura'
+- 'Printing: Nocturnal Press (business cards), Blurb (guidelines)'
+- 'Paper: Neenah (stationery), Gmund (business cards)'
+- "-"
+- 'Project Images: Dave Imber'
 primaryImage: "/assets/img/Wayport_Project_0.jpg"
 images:
-  - "/assets/img/Wayport_Project_1.jpg"
-  - "/assets/img/Wayport_Project_2.jpg"
-  - "/assets/img/Wayport_Project_3.jpg"
-  - "/assets/img/Wayport_Project_4.jpg"
-  - "/assets/img/Wayport_Project_5.jpg"
-  - "/assets/img/Wayport_Project_6.jpg"
-  - "/assets/img/Wayport_Project_7.jpg"
-  - "/assets/img/Wayport_Project_8.jpg"
+- "/assets/img/Wayport_Project_1.jpg"
+- "/assets/img/Wayport_Project_2.jpg"
+- "/assets/img/Wayport_Project_3.jpg"
+- "/assets/img/Wayport_Project_4.jpg"
+- "/assets/img/Wayport_Project_5.jpg"
+- "/assets/img/Wayport_Project_6.jpg"
+- "/assets/img/Wayport_Project_7.jpg"
+- "/assets/img/Wayport_Project_8.jpg"
+date: 2018-09-04 04:00:00 +0000
+
 ---
 Chris Wayland came to VCI in need of rebranding and repositioning his newly acquired travel agency. Originally named Oriental Express, the company received calls for Asian take-out food daily, so it was obvious that the current branding was not attracting the right customers. Although they had many Asian clients, Chris no longer wanted the company represented in this way. We started the branding process by renaming his company to Wayport which nods to Chris’s last name Wayland and also his favorite destination: Portland.
 

@@ -73,6 +73,7 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/wayport.md
 - _projects/retrograde-coffee-roasters.md
 - _projects/ramp48.md
 - _projects/change-for-change.md
