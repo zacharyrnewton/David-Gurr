@@ -60,3 +60,7 @@ fields:
   label: Image Gallery
   name: images
   description: These are the project images
+- type: boolean
+  label: Light Text
+  name: lightText
+  description: Turn this on if the project color is too dark for black text
