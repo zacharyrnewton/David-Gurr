@@ -1,6 +1,6 @@
 ---
-label: Retrograde Coffee Roasters
-hide_body: false
+label: Project
+hide_body: true
 is_partial: false
 fields:
 - name: layout
