@@ -81,5 +81,3 @@ fields:
   label: Image Gallery
   name: images
   description: These are the project images
-pages:
-- _projects/test.html
