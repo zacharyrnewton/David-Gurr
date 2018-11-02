@@ -62,7 +62,7 @@ fields:
   description: Enter the text for the body of the project
   config:
     required: true
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: markdown
 - type: list
