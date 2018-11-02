@@ -73,5 +73,13 @@ fields:
   label: Image Gallery
   name: images
   description: These are the project images
+- type: list
+  name: projectDetails
+  label: Project Details
+  description: Enter the project details list
+  config:
+    use_select: false
+    source:
+      type: documents
 pages:
 - _projects/test.html
