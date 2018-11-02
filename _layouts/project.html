@@ -10,10 +10,10 @@ layout: default
       {{ content }}
     </div>
     <div class="projectImages">
-      <img src="{{ site.baseurl }}/assets/img/{{ page.primaryImage }}" width="100%" height="auto"/>
+      <img src="{{ site.baseurl }}{{ page.primaryImage }}" width="100%" height="auto"/>
       <div class="imageGrid">
         {% for item in page.images %}
-        <img src="{{ site.baseurl }}/assets/img/{{ item }}" />
+        <img src="{{ site.baseurl }}{{ item }}" />
         {% endfor %}
       </div>
     </div>
