@@ -2,6 +2,29 @@
 title: asdf
 layout: project
 date: 2018-11-02 00:00:00 +0000
+workCategory: adsf
+location: asdf
+projectDate: adsf
+projectColor: "#743B3B"
+lightText: false
+body: "Chris Wayland came to VCI in need of rebranding and repositioning his newly
+  acquired travel agency. Originally named Oriental Express, the company received
+  calls for Asian take-out food daily, so it was obvious that the current branding
+  was not attracting the right customers. Although they had many Asian clients, Chris
+  no longer wanted the company represented in this way. We started the branding process
+  by renaming his company to Wayport which nods to Chris’s last name Wayland and also
+  his favorite destination: Portland. \n\n***\n\nWe were inspired by the elegance
+  and optimism that was associated with air and nautical travel in the 1960’s. We
+  saw an opportunity to niche Wayport as a professional, well-established travel agency
+  for the modern traveler by focusing our attention on developing a brand experience
+  that enhanced their customer’s travel planning and communication. Our goal was to
+  bring his travel agency to a modern audience and remind travelers of the benefits,
+  nostalgia, and satisfaction of using such a service. The identity has been well
+  received by both Chris and his customers and also won a Corporate Identity Gold
+  trophy in \n\nMuse Creative Awards 2018."
+projectDetails: []
+primaryImage: ''
+images: []
 published: false
 
 ---
