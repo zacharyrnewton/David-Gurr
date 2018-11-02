@@ -61,10 +61,10 @@ fields:
   label: Project Description
   description: Enter the text for the body of the project
   config:
-    required: true
+    required: false
     wysiwyg: true
     schema:
-      format: markdown
+      format: html
 - type: list
   name: projectDetails
   label: Project Details
