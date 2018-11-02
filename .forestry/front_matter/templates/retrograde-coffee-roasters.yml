@@ -82,4 +82,5 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/test-3.html
 - _projects/test-number-two.html
