@@ -16,18 +16,18 @@ fields:
   description: Give your project a title
   config:
     required: true
+- type: text
+  label: Category
+  name: workCategory
+  description: What type of job was this?
+  config:
+    required: true
 - name: location
   label: Location
   type: text
   hidden: false
   default: ''
   description: Enter a location for the project
-  config:
-    required: true
-- type: text
-  label: Category
-  name: workCategory
-  description: What type of job was this?
   config:
     required: true
 - name: projectDate
