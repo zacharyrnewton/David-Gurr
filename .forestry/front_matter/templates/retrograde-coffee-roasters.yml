@@ -73,6 +73,7 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/r1-coffee.md
 - _projects/retrograde-coffee-roasters.md
 - _projects/fulton.md
 - _projects/no-greater-worth.md
