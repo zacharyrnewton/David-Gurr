@@ -52,6 +52,10 @@ fields:
   label: Project Color
   name: projectColor
   description: Set the color for you project.
+- type: boolean
+  label: Light Text
+  name: lightText
+  description: Turn this on if the project color is too dark for black text
 - type: file
   name: primaryImage
   label: Hero Image
@@ -60,7 +64,3 @@ fields:
   label: Image Gallery
   name: images
   description: These are the project images
-- type: boolean
-  label: Light Text
-  name: lightText
-  description: Turn this on if the project color is too dark for black text
