@@ -73,4 +73,5 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/fulton.md
 - _projects/fulton-copy.md
