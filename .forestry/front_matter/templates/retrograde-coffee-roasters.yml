@@ -82,5 +82,4 @@ fields:
   name: images
   description: These are the project images
 pages:
-- _projects/asdf.md
 - _projects/dfgh.html
