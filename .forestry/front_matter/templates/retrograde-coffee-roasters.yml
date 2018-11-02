@@ -72,13 +72,3 @@ fields:
   label: Image Gallery
   name: images
   description: These are the project images
-pages:
-- _projects/sessions-ii.md
-- _projects/change-for-change.md
-- _projects/ramp48.md
-- _projects/wayport.md
-- _projects/behold.md
-- _projects/no-greater-worth.md
-- _projects/fulton.md
-- _projects/retrograde-coffee-roasters.md
-- _projects/r1-coffee.md
