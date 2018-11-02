@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "/dg"
 url: "https://davidgurr.com"
 
-#markdown: kramdown
+markdown: kramdown
 permalink: pretty
 plugins:
   - jekyll-feed
