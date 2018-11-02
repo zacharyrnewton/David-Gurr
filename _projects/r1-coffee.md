@@ -22,7 +22,6 @@ images:
 - "/assets/img/R1-Coffee_Project_3.jpg"
 - "/assets/img/R1-Coffee_Project_2.jpg"
 - "/assets/img/R1-Coffee_Project_1.jpg"
-published: false
 
 ---
 R1 Coffee was lacking a consistent identity, so I developed a strong logo mark and typographic treatment which I applied across all of their materials. Unfortunately, not all these projects were realized, but I did get to fully develop a handheld menu system which worked across all three shops that had different offerings. For instance, each shop serves coffee from a different featured roaster, so I made sure to feature this on the menu so that the consumer knew what made each shop unique. Featuring different roasters is an expensive endeavor, but it gives consumers the added benefit of tasting more than one roaster. It was this reason why I felt it should be more prominent than it was. Another issue was that each shop had different food options due to their kitchens and staff. I made sure the menu could adapt to these changes. 
