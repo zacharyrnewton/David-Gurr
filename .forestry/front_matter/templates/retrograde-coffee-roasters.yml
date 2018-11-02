@@ -58,21 +58,13 @@ fields:
   description: Turn this on if the project color is too dark for black text
 - type: textarea
   name: body
-  label: Body
+  label: Project Description
   description: Enter the text for the body of the project
   config:
     required: true
     wysiwyg: false
     schema:
       format: markdown
-- type: file
-  name: primaryImage
-  label: Hero Image
-  description: This is the first image in the project.
-- type: image_gallery
-  label: Image Gallery
-  name: images
-  description: These are the project images
 - type: list
   name: projectDetails
   label: Project Details
@@ -81,5 +73,13 @@ fields:
     use_select: false
     source:
       type: documents
+- type: file
+  name: primaryImage
+  label: Hero Image
+  description: This is the first image in the project.
+- type: image_gallery
+  label: Image Gallery
+  name: images
+  description: These are the project images
 pages:
 - _projects/test.html
