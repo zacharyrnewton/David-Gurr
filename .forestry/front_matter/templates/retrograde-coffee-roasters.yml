@@ -56,6 +56,15 @@ fields:
   label: Light Text
   name: lightText
   description: Turn this on if the project color is too dark for black text
+- type: textarea
+  name: body
+  label: Body
+  description: Enter the text for the body of the project
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
 - type: file
   name: primaryImage
   label: Hero Image
