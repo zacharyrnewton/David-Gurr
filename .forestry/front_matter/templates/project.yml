@@ -73,6 +73,7 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/test-project.md
 - _projects/sessions-ii.md
 - _projects/change-for-change.md
 - _projects/ramp48.md
