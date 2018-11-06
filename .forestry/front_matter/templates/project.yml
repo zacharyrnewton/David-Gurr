@@ -73,6 +73,7 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/retrograde-coffee-roasters.md
 - _projects/tribe.md
 - _projects/ugly.md
 - _projects/shapes-of-emotion.md
@@ -83,5 +84,4 @@ pages:
 - _projects/behold.md
 - _projects/no-greater-worth.md
 - _projects/fulton.md
-- _projects/retrograde-coffee-roasters.md
 - _projects/r1-coffee.md

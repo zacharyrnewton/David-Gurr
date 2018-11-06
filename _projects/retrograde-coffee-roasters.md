@@ -5,7 +5,7 @@ location: Sebastopol, California
 workCategory: Packaging
 projectDate: 2018
 projectColor: "#77cee0"
-lightText: false
+lightText: true
 projectDetails:
 - 'Team: Visual Creatives, Inc.'
 - 'Art Direction: David Gurr'
