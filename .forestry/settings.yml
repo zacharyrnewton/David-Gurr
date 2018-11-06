@@ -15,7 +15,7 @@ sections:
 - type: document
   path: config.yml
   label: Site Settings
-  read_only: true
+  read_only: false
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
