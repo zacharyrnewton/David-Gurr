@@ -21,7 +21,6 @@ images:
 - "/assets/img/Web Images_Tribe_3.jpg"
 - "/assets/img/Web Images_Tribe_4.jpg"
 - "/assets/img/Web Images_Tribe_5.jpg"
-published: false
 
 ---
 Tribe Creative Studio is a small team that specializes in video production. I created a logo mark that subtly captured their African heritage through pattern and color while still nodding to the tech side of their industry. The mark is both primitive and modern, a hybrid of the two. The design hit home with the client and has become a symbol that they felt truly represented who they are and what they do.
