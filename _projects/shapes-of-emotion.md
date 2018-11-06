@@ -16,7 +16,14 @@ projectDetails:
 - "-"
 - 'Project Images: Dave Imber'
 primaryImage: ''
-images: []
+images:
+- "/assets/img/Web Images_Shapes of Emotion_1.jpg"
+- "/assets/img/Web Images_Shapes of Emotion_2.jpg"
+- "/assets/img/Web Images_Shapes of Emotion_3.jpg"
+- "/assets/img/Web Images_Shapes of Emotion_4.jpg"
+- "/assets/img/Web Images_Shapes of Emotion_5.jpg"
+- "/assets/img/Web Images_Shapes of Emotion_6.jpg"
+- "/assets/img/Web Images_Shapes of Emotion_7.jpg"
 published: false
 
 ---
