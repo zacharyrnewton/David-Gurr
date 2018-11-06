@@ -12,3 +12,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
+- type: file
+  name: image
+  label: Image
+  description: Add a photo of yourself
