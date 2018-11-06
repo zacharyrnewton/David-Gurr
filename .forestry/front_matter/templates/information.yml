@@ -1,6 +1,6 @@
 ---
 label: Information
-hide_body: false
+hide_body: true
 is_partial: false
 fields:
 - type: textarea
@@ -16,3 +16,5 @@ fields:
   name: image
   label: Image
   description: Add a photo of yourself
+pages:
+- information.html
