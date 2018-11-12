@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Wayport
+title: Wayport Travel
 location: West Palm Beach, Florida
 workCategory: Brand Identity
 projectDate: 2018
