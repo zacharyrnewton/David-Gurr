@@ -1,6 +1,6 @@
 ---
 layout: project
-title: No Greater Worth
+title: Danny Luis
 location: Boca Raton, Florida
 workCategory: Album Artwork
 projectDate: 2018
