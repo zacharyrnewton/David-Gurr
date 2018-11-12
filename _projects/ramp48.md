@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Ramp48
+title: Ramp48 Indoor Skatepark
 location: Fort Lauderdale, Florida
 workCategory: Brand Identity
 projectDate: 2017
