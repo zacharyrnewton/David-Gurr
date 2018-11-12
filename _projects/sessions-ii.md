@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Sessions II
+title: Ocean's Edge School
 location: Fort Lauderdale, Florida
 workCategory: Album Artwork
 projectDate: 2016
