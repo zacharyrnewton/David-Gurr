@@ -11,25 +11,26 @@ projectDetails:
 - 'Awards: Muse Creative Awards 2018 Corporate Identity Gold'
 - 'Art Direction: David Gurr'
 - 'Design: David Gurr'
-- 'Photography: Dave Imber'
 - 'Website: Dave Imber'
-- 'Naming Ideation: Dave Imber, Marla Saunders'
+- 'Naming Ideation: Seth Eaton, Dave Imber, Marla Saunders'
 - 'Copywriting: David Gurr, Dave Imber, Marla Saunders'
 - 'Typeface: Futura'
 - 'Printing: Nocturnal Press (business cards), Blurb (guidelines)'
 - 'Paper: Neenah (stationery), Gmund (business cards)'
 - "-"
 - 'Project Images: Dave Imber'
-primaryImage: "/assets/img/Wayport_Project_0.jpg"
+primaryImage: ''
 images:
-- "/assets/img/Wayport_Project_1.jpg"
-- "/assets/img/Wayport_Project_2.jpg"
-- "/assets/img/Wayport_Project_3.jpg"
-- "/assets/img/Wayport_Project_4.jpg"
-- "/assets/img/Wayport_Project_5.jpg"
-- "/assets/img/Wayport_Project_6.jpg"
-- "/assets/img/Wayport_Project_7.jpg"
-- "/assets/img/Wayport_Project_8.jpg"
+- "/assets/img/Web Images_Wayport Travel_1.jpg"
+- "/assets/img/Web Images_Wayport Travel_2.jpg"
+- "/assets/img/Web Images_Wayport Travel_3.jpg"
+- "/assets/img/Web Images_Wayport Travel_4.jpg"
+- "/assets/img/Web Images_Wayport Travel_5.jpg"
+- "/assets/img/Web Images_Wayport Travel_6.jpg"
+- "/assets/img/Web Images_Wayport Travel_7.jpg"
+- "/assets/img/Web Images_Wayport Travel_8.jpg"
+- "/assets/img/Web Images_Wayport Travel_9.jpg"
+- "/assets/img/Web Images_Wayport Travel_10.jpg"
 date: 2018-09-04 04:00:00 +0000
 
 ---
