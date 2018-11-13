@@ -17,11 +17,10 @@ projectDetails:
 - 'Project Images: Dave Imber'
 primaryImage: ''
 images:
-- "/assets/img/Web Images_Retrograde Coffee Roasters_.jpg"
+- "/assets/img/Web Images_Retrograde Coffee Roasters_6.jpg"
 - "/assets/img/Web Images_Retrograde Coffee Roasters_2.jpg"
 - "/assets/img/Web Images_Retrograde Coffee Roasters_3.jpg"
 - "/assets/img/Web Images_Retrograde Coffee Roasters_4.jpg"
-- "/assets/img/Web Images_Retrograde Coffee Roasters_5.jpg"
 date: 2018-03-30 04:00:00 +0000
 
 ---
