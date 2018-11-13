@@ -15,15 +15,14 @@ projectDetails:
 - 'Typeface: Sofia Pro'
 - "-"
 - 'Project Images: Justus Martin'
-primaryImage: "/assets/img/Change-for-Change_Project_1.jpg"
+primaryImage: ''
 images:
-- "/assets/img/Change-for-Change_Project_2.jpg"
-- "/assets/img/Change-for-Change_Project_3.jpg"
-- "/assets/img/Change-for-Change_Project_4.jpg"
-- "/assets/img/Change-for-Change_Project_5.jpg"
-- "/assets/img/Change-for-Change_Project_6.jpg"
-- "/assets/img/Change-for-Change_Project_7.jpg"
-- "/assets/img/Change-for-Change_Project_8.jpg"
+- "/assets/img/Web Images_Change for Change_1.jpg"
+- "/assets/img/Web Images_Change for Change_2.jpg"
+- "/assets/img/Web Images_Change for Change_3.jpg"
+- "/assets/img/Web Images_Change for Change_4.jpg"
+- "/assets/img/Web Images_Change for Change_5.jpg"
+- "/assets/img/Web Images_Change for Change_6.jpg"
 date: 2017-01-27 05:00:00 +0000
 
 ---
