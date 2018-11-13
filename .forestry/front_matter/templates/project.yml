@@ -73,12 +73,12 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/wayport.md
 - _projects/shapes-of-emotion.md
 - _projects/r1-coffee.md
 - _projects/retrograde-coffee-roasters.md
 - _projects/ramp48.md
 - _projects/no-greater-worth.md
-- _projects/wayport.md
 - _projects/peninsula-coffee.md
 - _projects/tribe.md
 - _projects/ugly.md

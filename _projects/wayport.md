@@ -31,7 +31,7 @@ images:
 - "/assets/img/Web Images_Wayport Travel_8.jpg"
 - "/assets/img/Web Images_Wayport Travel_9.jpg"
 - "/assets/img/Web Images_Wayport Travel_10.jpg"
-date: 2018-09-04 04:00:00 +0000
+date: 2018-04-04 04:00:00 +0000
 
 ---
 Chris Wayland came to VCI in need of rebranding and repositioning his newly acquired travel agency. Originally named Oriental Express, the company received calls for Asian take-out food daily, so it was obvious that the current branding was not attracting the right customers. Although they had many Asian clients, Chris no longer wanted the company represented in this way. We started the branding process by renaming his company to Wayport which nods to Chris’s last name Wayland and also his favorite destination: Portland.
