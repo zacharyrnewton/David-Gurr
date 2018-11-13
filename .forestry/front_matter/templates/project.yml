@@ -73,6 +73,7 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/ramp48.md
 - _projects/sessions-ii.md
 - _projects/no-greater-worth.md
 - _projects/tribe.md
@@ -81,7 +82,6 @@ pages:
 - _projects/shapes-of-emotion.md
 - _projects/r1-coffee.md
 - _projects/retrograde-coffee-roasters.md
-- _projects/ramp48.md
 - _projects/ugly.md
 - _projects/change-for-change.md
 - _projects/behold.md
