@@ -1,7 +1,7 @@
 ---
 title: Tribe Creative Studio
 layout: project
-date: 2018-08-02 00:13:29 +0000
+date: 2018-07-06 00:13:29 +0000
 workCategory: Brand Identity
 location: Fort Lauderdale, Florida
 projectDate: 2018
