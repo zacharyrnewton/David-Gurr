@@ -15,7 +15,7 @@ projectDetails:
 - 'Naming Ideation: Seth Eaton, Dave Imber, Marla Saunders'
 - 'Copywriting: David Gurr, Dave Imber, Marla Saunders'
 - 'Typeface: Futura'
-- 'Printing: Nocturnal Press (business cards), Blurb (guidelines)'
+- 'Printing: Nocturnal Press (business cards), Blurb (guidelines), Created Co. (glasses)'
 - 'Paper: Neenah (stationery), Gmund (business cards)'
 - "-"
 - 'Project Images: Dave Imber'
