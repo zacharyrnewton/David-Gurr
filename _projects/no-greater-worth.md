@@ -21,7 +21,7 @@ images:
 - "/assets/img/Danny-Luis_Project_5.jpg"
 - "/assets/img/Danny-Luis_Project_6.jpg"
 - "/assets/img/Danny-Luis_Project_7.jpg"
-date: 2018-10-17 04:00:00 +0000
+date: 2017-11-22 05:00:00 +0000
 
 ---
 Danny Luis approached me with a difficult problem: how to abstractly and artistically represent the title “No Greater Worth” on a cover. After many iterations, I realized that the simple formation of a greater than / less than symbol was graphically interesting. I shortened the less-than symbol slightly to suggest an “L”, while the greater than symbol represented the “D”. This tied in the concept with his artist name, Danny Luis. The simplicity of the mark enabled the album’s identity to easily transfer to merchandise and marketing materials.
