@@ -1,7 +1,7 @@
 ---
 title: Shapes of Emotion
 layout: project
-date: 2018-07-11 23:00:00 +0000
+date: 2018-07-06 04:00:00 +0000
 workCategory: Design Research
 location: Basel, Switzerland
 projectDate: 2018
