@@ -20,7 +20,7 @@ images:
 - "/assets/img/Sessions-II_Project_2.jpg"
 - "/assets/img/Sessions-II_Project_3.jpg"
 - "/assets/img/Sessions-II_Project_4.jpg"
-date: 2016-01-01 05:00:00 +0000
+date: 2016-05-22 04:00:00 +0000
 
 ---
 For the Sessions II project, I was inspired by the music studio and what happens behind the scenes during recording. I included sloppy handwritten aspects to the design to represent the spur of the moment ideas that come with songwriting. Justus Martin and I captured images around the studio that juxtapose complexity with simplicity, which represents the struggle and hard work of making order out of ideas. The design captures the whole story, from the studio to your CD player.

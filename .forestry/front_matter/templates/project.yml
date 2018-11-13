@@ -73,6 +73,7 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/sessions-ii.md
 - _projects/no-greater-worth.md
 - _projects/tribe.md
 - _projects/peninsula-coffee.md
@@ -82,7 +83,6 @@ pages:
 - _projects/retrograde-coffee-roasters.md
 - _projects/ramp48.md
 - _projects/ugly.md
-- _projects/sessions-ii.md
 - _projects/change-for-change.md
 - _projects/behold.md
 - _projects/fulton.md
