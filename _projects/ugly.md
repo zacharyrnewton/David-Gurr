@@ -1,7 +1,7 @@
 ---
 title: Ugly
 layout: project
-date: 2018-10-02 00:04:06 +0000
+date: 2018-09-12 04:00:00 +0000
 workCategory: Poster Design
 location: Miami, Florida
 projectDate: 2018
