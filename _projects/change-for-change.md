@@ -10,7 +10,6 @@ projectDetails:
 - 'Team: Calvary Chapel Fort Lauderdale'
 - 'Art Direction: David Gurr'
 - 'Design: David Gurr'
-- 'Photography: Unsplash'
 - 'Copywriting: David Gurr'
 - 'Typeface: Sofia Pro'
 - "-"
