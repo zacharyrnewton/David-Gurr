@@ -1,7 +1,7 @@
 ---
 title: Fulton Insurance
 layout: project
-date: 2018-11-02 00:00:00 +0000
+date: 2018-01-07 01:00:00 +0000
 workCategory: Brand Identity
 location: Coral Springs, Florida
 projectDate: 2018
