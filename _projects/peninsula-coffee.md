@@ -1,7 +1,7 @@
 ---
 title: Peninsula Coffee
 layout: project
-date: 2018-09-02 00:25:15 +0000
+date: 2018-09-17 00:25:15 +0000
 workCategory: Brand Identity, Packaging
 location: Hobe Sound, Florida
 projectDate: 2018
