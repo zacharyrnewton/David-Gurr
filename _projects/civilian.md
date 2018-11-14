@@ -1,7 +1,7 @@
 ---
 title: Civilian
 layout: project
-date: 2018-10-16 05:54:32 +0000
+date: 2018-10-06 05:54:32 +0000
 workCategory: Album Artwork
 location: Dana Point, California
 projectDate: 2018
