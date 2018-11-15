@@ -15,10 +15,10 @@ image: "/assets/img/bio/DavidGurr_Image_1.jpg"
 <div class="informationContentContainer">
   <div class="mainContent">
     <h1>About</h1>
-    <p>{{ site.description }}</p>
+    <p>{{ page.about }}</p>
     <a href="mailto:{{ site.email }}">Contact</a>
   </div>
   <div class="imageContent">
-    <img src="{{ site.baseurl }}/assets/img/bio/DavidGurr_Image_1.jpg" class="lb-js" data-path="auto" height="100%" width="100%"/>
+    <img src="{{ site.baseurl }}{{ page.image }}" class="lb-js" data-path="auto" height="100%" width="100%"/>
   </div>
 </div>
