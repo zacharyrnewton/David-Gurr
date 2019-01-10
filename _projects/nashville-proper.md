@@ -16,7 +16,15 @@ projectDetails:
 - "-"
 - 'Project Images: Sydney Marie, Dave Imber'
 primaryImage: ''
-images: []
+images:
+- "/assets/img/Web Images_Nashville Proper_1.jpg"
+- "/assets/img/Web Images_Nashville Proper_8.jpg"
+- "/assets/img/Web Images_Nashville Proper_5.jpg"
+- "/assets/img/Nashville-Proper_Star-Sphere_2.gif"
+- "/assets/img/Web Images_Nashville Proper_7.jpg"
+- "/assets/img/Web Images_Nashville Proper_11.jpg"
+- "/assets/img/Web Images_Nashville Proper_3.jpg"
+- "/assets/img/Web Images_Nashville Proper_9.jpg"
 published: false
 
 ---
