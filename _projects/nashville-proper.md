@@ -6,7 +6,7 @@ workCategory: Brand Identity
 location: Nashville, Tennessee
 projectDate: 2019
 projectColor: "#D7D1CB"
-lightText: false
+lightText: true
 projectDetails:
 - 'Team: Visual Creatives, Inc.'
 - 'Art Direction: David Gurr'
