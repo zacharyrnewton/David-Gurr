@@ -20,9 +20,9 @@ images:
 - "/assets/img/Web Images_The Coffee Standard_.jpg"
 - "/assets/img/Web Images_The Coffee Standard_2.jpg"
 - "/assets/img/Web Images_The Coffee Standard_5.jpg"
-- "/assets/img/Web Images_The Coffee Standard_4.jpg"
-- "/assets/img/The-Coffee-Standard_Vote.gif"
 - "/assets/img/Web Images_The Coffee Standard_6.jpg"
+- "/assets/img/The-Coffee-Standard_Vote.gif"
+- "/assets/img/Web Images_The Coffee Standard_4.jpg"
 - "/assets/img/Web Images_The Coffee Standard_3.jpg"
 published: false
 
