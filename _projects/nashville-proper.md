@@ -28,3 +28,4 @@ images:
 published: false
 
 ---
+Nashville Proper is a Nashville based clothing brand made for people who live inside the city limits. We developed a typographic system that could be utilized in a myriad of ways. The type was chosen for its industrial style and slight unrefined quality. We drew inspiration from the oldest parts of Nashville and brought it to a modern audience. Avoiding cliches was paramount, we needed this brand to be embraced by a new generation. The final result is a brand that doesn't have to scream Nashville, it just is Nashville.
