@@ -73,8 +73,8 @@ fields:
   name: images
   description: These are the project images
 pages:
-- _projects/nashville-proper.md
 - _projects/the-coffee-standard.md
+- _projects/nashville-proper.md
 - _projects/retrograde-coffee-roasters.md
 - _projects/behold.md
 - _projects/peninsula-coffee.md
