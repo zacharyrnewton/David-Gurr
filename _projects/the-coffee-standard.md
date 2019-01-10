@@ -19,7 +19,6 @@ primaryImage: ''
 images:
 - "/assets/img/Web Images_The Coffee Standard_.jpg"
 - "/assets/img/Web Images_The Coffee Standard_2.jpg"
-- "/assets/img/The-Coffee-Standard_ATL.gif"
 - "/assets/img/Web Images_The Coffee Standard_5.jpg"
 - "/assets/img/Web Images_The Coffee Standard_4.jpg"
 - "/assets/img/The-Coffee-Standard_Vote.gif"
