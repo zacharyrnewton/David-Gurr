@@ -18,7 +18,7 @@ projectDetails:
 - 'Project Images: Dave Imber'
 primaryImage: ''
 images:
-- "/assets/img/Web Images_VCI_0.jpg"
+- "/assets/img/Web Images_VCI_8.jpg"
 - "/assets/img/Web Images_VCI_6.jpg"
 - "/assets/img/Web Images_VCI_4.jpg"
 - "/assets/img/Web Images_VCI_7.jpg"
