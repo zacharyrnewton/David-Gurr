@@ -16,7 +16,7 @@ projectDetails:
 - 'Copywriting: David Gurr, Dave Imber, Marla Saunders'
 - 'Typeface: Futura'
 - 'Printing: Nocturnal Press, Blurb, Created Co.'
-- 'Paper: Neenah (stationery), Gmund (business cards)'
+- 'Paper: Neenah, Gmund'
 - "-"
 - 'Project Images: Dave Imber'
 primaryImage: ''
