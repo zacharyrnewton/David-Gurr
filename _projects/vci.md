@@ -3,7 +3,7 @@ title: VCI
 layout: project
 date: 2019-01-01 17:09:24 +0000
 workCategory: Brand Identity
-location: West Palm Beach, FL
+location: West Palm Beach, Florida
 projectDate: 2019
 projectColor: "#2F4640"
 lightText: true
