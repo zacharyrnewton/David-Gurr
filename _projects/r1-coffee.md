@@ -11,7 +11,7 @@ projectDetails:
 - 'Art Direction: David Gurr'
 - 'Design: David Gurr'
 - 'Typeface: Helvetica'
-- 'Paper: Neenah Environmental Concrete & Classic Crest Avon (menus)'
+- 'Paper: Neenah Environmental Concrete & Classic Crest Avon'
 primaryImage: ''
 images:
 - "/assets/img/Web Images_R1 Coffee_1.jpg"
