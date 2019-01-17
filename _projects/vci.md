@@ -18,7 +18,7 @@ projectDetails:
 - 'Project Images: Dave Imber'
 primaryImage: ''
 images:
-- "/assets/img/Web Images_VCI_1.jpg"
+- "/assets/img/Web Images_VCI_0.jpg"
 - "/assets/img/Web Images_VCI_6.jpg"
 - "/assets/img/Web Images_VCI_4.jpg"
 - "/assets/img/Web Images_VCI_7.jpg"
@@ -27,3 +27,4 @@ images:
 published: false
 
 ---
+VCI is a branding studio located in West Palm Beach, Florida. Their new identity leverages typography, grids, and overall reduction. The logotext is dynamic and can adapt to any proportion in a diagonal or vertical direction.
