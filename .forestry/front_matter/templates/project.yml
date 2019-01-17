@@ -74,7 +74,6 @@ fields:
   description: These are the project images
 pages:
 - _projects/the-coffee-standard.md
-- _projects/nashville-proper.md
 - _projects/retrograde-coffee-roasters.md
 - _projects/behold.md
 - _projects/peninsula-coffee.md
@@ -90,3 +89,4 @@ pages:
 - _projects/no-greater-worth.md
 - _projects/r1-coffee.md
 - _projects/vci.md
+- _projects/nashville-proper.md
