@@ -11,7 +11,7 @@ projectDetails:
 - 'Team: Visual Creatives, Inc.'
 - 'Art Direction: David Gurr'
 - 'Design: David Gurr'
-- 'Printing: Life and Limb Printing (apparel)'
+- 'Printing: Life and Limb Printing, Mingo Press'
 - 'Typeface: GT Pressura'
 - "-"
 - 'Project Images: Sydney Marie, Dave Imber'
