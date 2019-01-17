@@ -19,10 +19,10 @@ projectDetails:
 primaryImage: ''
 images:
 - "/assets/img/Web Images_VCI_8.jpg"
-- "/assets/img/Web Images_VCI_6.jpg"
-- "/assets/img/Web Images_VCI_4.jpg"
 - "/assets/img/Web Images_VCI_7.jpg"
+- "/assets/img/Web Images_VCI_4.jpg"
 - "/assets/img/Web Images_VCI_2.jpg"
+- "/assets/img/Web Images_VCI_6.jpg"
 - "/assets/img/Web Images_VCI_3.jpg"
 
 ---
