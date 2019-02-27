@@ -19,3 +19,22 @@
 <meta name="twitter:title" content="{{ site.title }}" />
 <meta name="twitter:description" content="{{ site.description }}"/>
 <meta name="twitter:site" content="@DavidGurr"/>
+<!--Application ID-->
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@id": "{{ site.url }}",
+		"@type": "Organization",
+		"name": "{{ site.title }}",
+		"url": "{{ site.url }}",
+		"logo": "{{ site.url }}{{ site.baseurl }}/og-image.png",
+		"sameAs": [
+			"https://www.linkedin.com/in/david-gurr-26290984/",
+			"https://twitter.com/DavidGurr",
+			"https://www.instagram.com/davidgurr/",
+			"https://www.facebook.com/Gurrmon",
+			"https://www.behance.net/davidgurr",
+      "https://workingnotworking.com/66858-david"
+		]
+	}
+</script>
