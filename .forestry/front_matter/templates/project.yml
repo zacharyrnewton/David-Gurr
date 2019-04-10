@@ -72,6 +72,7 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/peninsula-coffee.md
 - _projects/retrograde-coffee-roasters.md
 - _projects/vci.md
 - _projects/nashville-proper.md
@@ -84,7 +85,6 @@ pages:
 - _projects/ramp48.md
 - _projects/sessions-ii.md
 - _projects/tribe.md
-- _projects/peninsula-coffee.md
 - _projects/shapes-of-emotion.md
 - _projects/ugly.md
 - _projects/behold.md

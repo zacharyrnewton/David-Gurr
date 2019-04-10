@@ -19,11 +19,15 @@ projectDetails:
 primaryImage: ''
 images:
 - "/assets/img/Web Images_Peninsula Coffee_1.jpg"
+- "/assets/img/Web Images_2019_Peninsula Coffee_Guidelines_2.jpg"
 - "/assets/img/Web Images_Peninsula Coffee_2.jpg"
-- "/assets/img/Web Images_Peninsula Coffee_3.jpg"
 - "/assets/img/Web Images_Peninsula Coffee_4.jpg"
+- "/assets/img/Web Images_2019_Peninsula Coffee_Guidelines_4.jpg"
+- "/assets/img/Web Images_2019_Peninsula Coffee_Guidelines_7.jpg"
 - "/assets/img/Web Images_Peninsula Coffee_5.jpg"
+- "/assets/img/Web Images_2019_Peninsula Coffee_Guidelines_5.jpg"
 - "/assets/img/Web Images_Peninsula Coffee_6.jpg"
+- "/assets/img/Web Images_2019_Peninsula Coffee_Guidelines_1.jpg"
 - "/assets/img/Web Images_Peninsula Coffee_7.jpg"
 - "/assets/img/Web Images_Peninsula Coffee_8.jpg"
 
