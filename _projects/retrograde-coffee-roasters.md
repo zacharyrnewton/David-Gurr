@@ -12,7 +12,7 @@ projectDetails:
 - 'Design: David Gurr'
 - 'Copywriting: Dave Imber'
 - 'Typeface: Futura'
-- 'Printing: Roastar (packaging)'
+- 'Printing: Savor Brands (Packaging), Georgette Packaging (To-Go Cups)'
 - "-"
 - 'Project Images: Dave Imber'
 primaryImage: ''
