@@ -22,7 +22,6 @@ images:
 - "/assets/img/Web Images_Retrograde Coffee Roasters_2.jpg"
 - "/assets/img/Web Images_2019_Retrograde Coffee Roasters_Cups_5.jpg"
 - "/assets/img/Web Images_Retrograde Coffee Roasters_4.jpg"
-- "/assets/img/Web Images_2019_Retrograde Coffee Roasters_Cups_4.jpg"
 - "/assets/img/Web Images_2019_Retrograde Coffee Roasters_Cups_6.jpg"
 - "/assets/img/Web Images_2019_Retrograde Coffee Roasters_Cups_7.jpg"
 - "/assets/img/Web Images_Retrograde Coffee Roasters_3.jpg"
