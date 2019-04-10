@@ -15,7 +15,7 @@ projectDetails:
 - 'Printing: Roastar (packaging)'
 - "-"
 - 'Project Images: Dave Imber'
-primaryImage: ''
+primaryImage: "/assets/img/Web Images_2019_Retrograde Coffee Roasters_Cups_1.jpg"
 images:
 - "/assets/img/Web Images_Retrograde Coffee Roasters_6.jpg"
 - "/assets/img/Web Images_Retrograde Coffee Roasters_2.jpg"
