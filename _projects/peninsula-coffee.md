@@ -13,7 +13,7 @@ projectDetails:
 - 'Design: David Gurr'
 - 'Copywriting: Dave Imber, Marla Saunders, David Gurr'
 - 'Typeface: Futura'
-- 'Printing: Roastar (packaging)'
+- 'Printing: Roastar (Packaging), Mingo Press (Guidelines)'
 - "-"
 - 'Project Images: Dave Imber'
 primaryImage: ''
