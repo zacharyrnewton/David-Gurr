@@ -19,17 +19,17 @@ projectDetails:
 primaryImage: ''
 images:
 - "/assets/img/Web Images_Peninsula Coffee_1.jpg"
-- "/assets/img/Web Images_2019_Peninsula Coffee_Guidelines_2.jpg"
 - "/assets/img/Web Images_Peninsula Coffee_2.jpg"
 - "/assets/img/Web Images_Peninsula Coffee_4.jpg"
+- "/assets/img/Web Images_Peninsula Coffee_5.jpg"
+- "/assets/img/Web Images_Peninsula Coffee_6.jpg"
+- "/assets/img/Web Images_Peninsula Coffee_8.jpg"
+- "/assets/img/Web Images_Peninsula Coffee_7.jpg"
 - "/assets/img/Web Images_2019_Peninsula Coffee_Guidelines_4.jpg"
 - "/assets/img/Web Images_2019_Peninsula Coffee_Guidelines_7.jpg"
-- "/assets/img/Web Images_Peninsula Coffee_5.jpg"
+- "/assets/img/Web Images_2019_Peninsula Coffee_Guidelines_2.jpg"
 - "/assets/img/Web Images_2019_Peninsula Coffee_Guidelines_5.jpg"
-- "/assets/img/Web Images_Peninsula Coffee_6.jpg"
 - "/assets/img/Web Images_2019_Peninsula Coffee_Guidelines_1.jpg"
-- "/assets/img/Web Images_Peninsula Coffee_7.jpg"
-- "/assets/img/Web Images_Peninsula Coffee_8.jpg"
 
 ---
 Peninsula Coffee is a social enterprise of Place of Hope. They aim to create positive change across South Florida by helping at-risk youth gain valuable work experience in the coffee industry. We developed an abstract logo mark that captured their dedication to positive change and growth. There are many ways to interpret the mark which ensures that it will last for years to come and continue to internalize meaning and brand equity. We then expanded the identity across packaging and collateral.  
