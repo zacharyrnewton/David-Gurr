@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'PosterFest: Design for Good 2019'
+title: 'PosterFest: Design for Good'
 workCategory: Juried Exhibition
 location: Miami, Florida
 projectDate: "2019"
