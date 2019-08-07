@@ -72,20 +72,21 @@ fields:
   name: images
   description: These are the project images
 pages:
-- _projects/retrograde-coffee-roasters.md
+- _projects/posterfest-design-for-good-2019.md
 - _projects/nashville-proper.md
+- _projects/the-coffee-standard.md
+- _projects/tribe.md
+- _projects/r1-coffee.md
+- _projects/sessions-ii.md
+- _projects/retrograde-coffee-roasters.md
 - _projects/wayport.md
 - _projects/vci.md
-- _projects/r1-coffee.md
 - _projects/no-greater-worth.md
 - _projects/civilian.md
 - _projects/ugly.md
 - _projects/fulton.md
 - _projects/peninsula-coffee.md
 - _projects/change-for-change.md
-- _projects/sessions-ii.md
 - _projects/shapes-of-emotion.md
 - _projects/ramp48.md
 - _projects/behold.md
-- _projects/the-coffee-standard.md
-- _projects/tribe.md
