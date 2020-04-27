@@ -24,6 +24,6 @@ images:
 - "/assets/img/Web Images_VCI_2.jpg"
 - "/assets/img/Web Images_VCI_6.jpg"
 - "/assets/img/Web Images_VCI_3.jpg"
-
+sitemap: false
 ---
 VCI is a branding studio located in West Palm Beach, Florida. Their new identity leverages typography, grids, and overall reduction. The logotext is dynamic and can adapt to any proportion in a diagonal or vertical direction.

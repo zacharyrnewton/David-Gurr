@@ -25,6 +25,6 @@ images:
 - "/assets/img/Web Images_Fulton Insurance_4.jpg"
 - "/assets/img/Web Images_Fulton Insurance_5.jpg"
 - "/assets/img/Web Images_Fulton Insurance_6.jpg"
-
+sitemap: false
 ---
 Fulton Insurance has been serving the insurance needs of the South Florida area since 1962. Their previous branding did not represent the level of excellence, knowledge, and services that they had to offer. We designed an abstract mark that conveyed trust, dependability, and expertise. The rebrand was received with excitement by the company and has increased their brand’s visibility and reach.

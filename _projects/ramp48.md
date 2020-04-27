@@ -21,6 +21,6 @@ images:
 - "/assets/img/Ramp48_Project_3.jpg"
 - "/assets/img/Ramp48_Project_4.jpg"
 date: 2017-09-25 04:00:00 +0000
-
+sitemap: false
 ---
 Ramp48 was struggling to create merchandise and marketing materials that met the needs of their audience. They felt restricted by their current branding and could not efficiently expand the identity to items like skate decks, brochures, and advertisements. I developed a new logo mark system as well as guidelines on color, typography, and layout that could be used by their in-house designer. Since the rebrand, their latest merchandise has flown off the shelves and has consistently sold out.

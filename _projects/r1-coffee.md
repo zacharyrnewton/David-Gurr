@@ -22,6 +22,6 @@ images:
 - "/assets/img/Web Images_R1 Coffee_6.jpg"
 - "/assets/img/Web Images_R1 Coffee_7.jpg"
 - "/assets/img/Web Images_R1 Coffee_8.jpg"
-
+sitemap: false
 ---
 R1 Coffee was lacking a consistent identity, so I developed a strong logo mark and typographic treatment which I applied across all of their materials.  I developed a hand-held menu system that works across all three of their shops which have different offerings. For instance, each shop serves coffee from a different featured roaster, so I made sure to feature this on the menu so that the consumer knew what made each shop unique. Another issue was that each shop had different food options due to their kitchens and staff. I made sure the menu could adapt to these changes. I did all this while staying within their budget for printing and updating the menus themselves.

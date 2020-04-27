@@ -24,6 +24,6 @@ images:
 - "/assets/img/The-Coffee-Standard_Vote.gif"
 - "/assets/img/Web Images_The Coffee Standard_4.jpg"
 - "/assets/img/Web Images_The Coffee Standard_3.jpg"
-
+sitemap: false
 ---
 The Coffee Standard is a coffee + design research group. The logo abstractly represents a coffee cherry being peeled back, revealing the coffee bean. It is also suggestive of a globe, representing the international scale of the company. I designed various templates that could be used for posting new content on social media as well as developing a postcard index which documents the best coffee shops in the USA.

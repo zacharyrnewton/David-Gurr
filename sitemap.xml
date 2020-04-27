@@ -7,21 +7,25 @@ search: exclude
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     {% for page in site.pages %}
+    {% if page.sitemap != false %}
     <url>
         <loc>{{ site.url }}{{ site.baseurl }}{{page.url}}</loc>
         <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
+    {% endif %}
     {% endfor %}
 
     {% for project in site.projects %}
+    {% if project.sitemap != false %}
     <url>
         <loc>{{ site.url }}{{ site.baseurl }}{{project.url}}</loc>
         <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
+    {% endif %}
     {% endfor %}
 
 </urlset>

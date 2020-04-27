@@ -22,6 +22,6 @@ images:
 - "/assets/img/Behold_Project_3.jpg"
 - "/assets/img/Behold_Project_4.jpg"
 published: false
-
+sitemap: false
 ---
 When I approached the album artwork for this year's Ocean’s Edge School of Worship record "Behold", I wanted to create an experience. The stark black cover reveals the beautiful landscape inside once opened, representing the act or process of beholding. The landscape inside is expansive and colorful much like the lyrics and sound contained within the disc.
