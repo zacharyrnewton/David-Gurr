@@ -1,0 +1,48 @@
+.splash-screen-wrapper
+  width: 100vw
+  height: 100vh
+  padding: 64px
+  box-sizing: border-box
+  display: flex
+  align-content: start
+  justify-content: start
+  align-items: start
+  justify-items: start
+  background: $white
+  color: $black
+  .splash-screen-body
+    font-family: "GT America", sans-serif
+    font-size: 64px
+    line-height: 1.125em
+    margin: 0
+    padding: 0
+    width: 100%
+    max-width: 1500px
+    color: inherit
+    a
+      text-decoration: none
+      color: inherit
+      display: inline
+      &:hover
+        text-decoration: underline
+        color: $blue
+
+@media screen and (max-width: 1200px)
+  .splash-screen-wrapper
+    padding: 48px
+    .splash-screen-body
+      font-size: 48px
+
+
+@media screen and (max-width: 800px)
+  .splash-screen-wrapper
+    padding: 32px
+    .splash-screen-body
+      font-size: 32px
+
+
+@media screen and (max-width: 500px)
+  .splash-screen-wrapper
+    padding: 24px
+    .splash-screen-body
+      font-size: 24px
